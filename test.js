@@ -1,4 +1,4 @@
 function testFunction() {
-	let x = 2
+	let x = 20
 	console.log(x)
 }
